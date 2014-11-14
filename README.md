@@ -1,4 +1,4 @@
-1w96th.github.io
-================
+1 West 96th Street
+==================
 
-1 West 96th St.
+http://1w96th.github.io/
